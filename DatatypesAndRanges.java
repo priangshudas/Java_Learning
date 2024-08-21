@@ -18,8 +18,8 @@ public class DatatypesAndRanges {
         long No4 = 20;
         System.out.println(No4);
 
-        float No5;
-        // System.out.println(No5);
+        float No5 = 2.5F;
+        System.out.println(No5);
         double No6 = 10.5;
         System.out.println(No6);
 
