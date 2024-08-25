@@ -25,7 +25,9 @@ public class DatatypesAndRanges {
 
         /* Non-Premitive data types */
         // C - Strings
-
+        String s = "I somewhat like java";
+        System.out.println(s);
+        System.out.println(s.charAt(2));
         // D - Arrays
 
         // E - User define classes
